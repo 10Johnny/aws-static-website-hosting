@@ -43,15 +43,11 @@ The website files are stored in a private Amazon S3 bucket. Amazon CloudFront is
 
 ## Live Website URL
 
-Replace this with your CloudFront URL:
-
-https://your-cloudfront-url.cloudfront.net
+https://d25n4s1u1ciqcb.cloudfront.net
 
 ## Repository
 
-Replace this with your GitHub repository URL:
-
-https://github.com/your-username/aws-static-website-hosting
+https://github.com/10Johnny/aws-static-website-hosting
 
 ## Security Considerations
 
